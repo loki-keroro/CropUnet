@@ -14,7 +14,7 @@
 =======
 Unet模型适合特征少，需要浅层特征的全景农田数据集
 
-![](RackMultipart20230811-1-hsq30t_html_6d0db24087dd0c06.png)
+![图片1(phone/18_px_0_1024.png "Magic Gardens")
 
 ![](RackMultipart20230811-1-hsq30t_html_fb7ab48ce863e255.png) ![](RackMultipart20230811-1-hsq30t_html_4e2bb639dfbbc09a.png)
 
